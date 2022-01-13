@@ -4,7 +4,7 @@ module.exports = {
 	/**
 	 * Ref：https://v1.vuepress.vuejs.org/config/#title
 	 */
-	title: 'Vuepress Docs Boilerplate',
+	title: 'Пользовательское руководство',
 	/**
 	 * Ref：https://v1.vuepress.vuejs.org/config/#description
 	 */
@@ -48,6 +48,7 @@ module.exports = {
 					title: 'Пользовательское руководство',
 					collapsable: false,
 					children: [
+						'',
 						'NavigationAndAccesses/NavigationAndAccesses',
 						'IntegrationApi/IntegrationApi',
 						'Terms',

@@ -218,19 +218,19 @@
 
 <th><span class="icon property-icon"></span>Разбивка Geo</th>
 
-<th><span class="icon property-icon"></span>+ Facebook</th>
+<th><span class="icon property-icon"></span>Facebook</th>
 
-<th><span class="icon property-icon"></span>+ Google</th>
+<th><span class="icon property-icon"></span>Google</th>
 
-<th><span class="icon property-icon"></span>+ Snapchat</th>
+<th><span class="icon property-icon"></span>Snapchat</th>
 
-<th><span class="icon property-icon"></span>+ TikTok</th>
+<th><span class="icon property-icon"></span>TikTok</th>
 
-<th><span class="icon property-icon"></span>+ Unity</th>
+<th><span class="icon property-icon"></span>Unity</th>
 
-<th><span class="icon property-icon"></span>+ Applovin</th>
+<th><span class="icon property-icon"></span>Applovin</th>
 
-<th><span class="icon property-icon"></span>+ IronSource</th>
+<th><span class="icon property-icon"></span>IronSource</th>
 
 </tr>
 
