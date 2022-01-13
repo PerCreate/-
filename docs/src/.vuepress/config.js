@@ -34,12 +34,8 @@ module.exports = {
 		lastUpdated: false,
 		nav: [
 			{
-				text: 'Guide',
-				link: '/guide/',
-			},
-			{
-				text: 'Config',
-				link: '/config/'
+				text: 'Пользовательское руководство',
+				link: '/assets/',
 			},
 			{
 				text: 'VuePress',
@@ -47,13 +43,14 @@ module.exports = {
 			}
 		],
 		sidebar: {
-			'/guide/': [
+			'/assets/': [
 				{
-					title: 'Guide',
+					title: 'Пользовательское руководство',
 					collapsable: false,
 					children: [
-						'',
-						'using-vue',
+						'NavigationAndAccesses/NavigationAndAccesses',
+						'IntegrationApi/IntegrationApi',
+						'Terms',
 					]
 				}
 			],
@@ -66,5 +63,6 @@ module.exports = {
 	plugins: [
 		'@vuepress/plugin-back-to-top',
 		'@vuepress/plugin-medium-zoom',
+		'@vuepress-plugin-roughviz'
 	]
 };
