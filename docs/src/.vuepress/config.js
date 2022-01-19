@@ -4,7 +4,7 @@ module.exports = {
 	/**
 	 * Ref：https://v1.vuepress.vuejs.org/config/#title
 	 */
-	title: 'Пользовательское руководство',
+	title: 'Пользовательское руководство панели ua.roasup',
 	/**
 	 * Ref：https://v1.vuepress.vuejs.org/config/#description
 	 */
@@ -37,10 +37,6 @@ module.exports = {
 				text: 'Пользовательское руководство',
 				link: '/assets/',
 			},
-			{
-				text: 'VuePress',
-				link: 'https://v1.vuepress.vuejs.org'
-			}
 		],
 		sidebar: {
 			'/assets/': [
